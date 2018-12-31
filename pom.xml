@@ -21,7 +21,7 @@
 				<configuration>
 					<suiteXmlFiles>
 						<!-- TestNG suite XML files -->
-						<suiteXmlFile>FreeCRMtestng.xml</suiteXmlFile>
+						<suiteXmlFile>FreeCRMTestng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
